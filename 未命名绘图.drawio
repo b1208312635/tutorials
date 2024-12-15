@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T03:41:53.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.15" etag="fv_xi83-Kz7Ke_Dj7p3W" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="FcdCJVN9rJPXsuN9fpyE">
-    <mxGraphModel>
+    <mxGraphModel dx="1877" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JfPAmZGc8Dm2U-WnEbUx-1" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="180" y="585" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfPAmZGc8Dm2U-WnEbUx-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="619.5" as="sourcePoint" />
+            <mxPoint x="390" y="619.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JfPAmZGc8Dm2U-WnEbUx-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/target-128.png;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="480" y="590" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfPAmZGc8Dm2U-WnEbUx-6" value="移动渠道接入" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="550" y="600" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JfPAmZGc8Dm2U-WnEbUx-7" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="800" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfPAmZGc8Dm2U-WnEbUx-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="859" as="sourcePoint" />
+            <mxPoint x="380" y="859" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JfPAmZGc8Dm2U-WnEbUx-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/target-128.png;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="480" y="839" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfPAmZGc8Dm2U-WnEbUx-10" value="VIVO渠道上线" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="550" y="849" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JfPAmZGc8Dm2U-WnEbUx-11" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="800" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfPAmZGc8Dm2U-WnEbUx-12" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="870" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfPAmZGc8Dm2U-WnEbUx-13" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="870" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JfPAmZGc8Dm2U-WnEbUx-15" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=15;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" vertex="1" parent="1">
+          <mxGeometry x="40" y="821" width="41" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="JfPAmZGc8Dm2U-WnEbUx-18" value="1. 转转知识体系&lt;div&gt;&lt;br&gt;&lt;div&gt;2. 门店回收业务&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 自驱和处理问题的能力&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="100" y="800" width="190" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
